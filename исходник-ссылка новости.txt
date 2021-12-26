@@ -1,0 +1,16 @@
+view-source:https://russian.rt.com/news
+
+
+<a class="link link_color " href="/world/news/820743-zhurnalist-vakcina-sputnik-v">
+        Журналист NYT сообщил, что привился вакциной «Спутник V»
+      </a>
+
+
+view-source:https://kloop.kg/news/
+
+
+<a href="https://kloop.kg/blog/2021/01/10/so-svoej-ruchkoj-mozhno-golosovat-a-vtoroj-byulleten-poprosit-otvechaem-na-voprosy-pro-vybory/" >
+				&#x2705;Со своей ручкой можно голосовать? А второй бюллетень попросить? Отвечаем на вопросы про выборы			</a>
+
+<a href="https://kloop.kg/blog/2021/01/11/20-kvartir-i-lyuksovye-mashiny-gknb-podozrevaet-sudyu-verhovnogo-suda-v-nezakonnom-obogashhenii-kollegiya-oprovergaet-obvineniya/" >
+				«20 квартир и люксовые машины». ГКНБ подозревает судью Верховного суда в незаконном обогащении, коллегия опровергает обвинения			</a>
